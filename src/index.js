@@ -8,7 +8,7 @@ import TodoList from './components/TodoList'
  * 
  * @author Eduardo B. Rauta
  * @version 1.0.0
- * @license ISC
+ * @license MIT
  * 
  * Importações:
  * React
